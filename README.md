@@ -19,7 +19,7 @@ L’objectif est de développer un système de gestion de clés et de chiffremen
 
 ## 🗂️ Structure du Projet
 
-![alt text](image.png)
+![alt text](pictures/image.png)
 
 
 ---
